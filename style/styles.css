@@ -1,0 +1,45 @@
+body {
+    background-image:url(https://www.dropbox.com/s/oxrzijl80vpztzf/34f3f5add0d2fb702359c8c698f678f2.jpg?raw=1);
+    background-repeat:repeat;
+    background-size:10%;
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-family:monospace;
+    font-size:175%;
+  }
+  #second-body {
+    background-color:black;
+  
+  }
+  
+  .smaller-img {
+      width: 400px;
+      height: auto;
+  }
+  .smaller-img {
+      width: 300px;
+      height: auto;
+  }
+  .fuck {
+    color:red;
+  }
+  .evil {
+    color:red;
+  }
+  h1 {
+    font-size:400%;
+  }
+  h2 {
+    font-size:200%;
+  }
+  
+  
+  a {
+    color:black;
+  }
+  .logo {
+        width: 100%;
+      height: auto;
+  }
+ 
